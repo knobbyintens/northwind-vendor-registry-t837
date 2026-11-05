@@ -3,7 +3,7 @@ vendor: Morrow Freight
 slug: morrow-freight
 service_category: logistics
 risk_tier: medium
-review_status: rejected
+review_status: pending_review
 renewal_owner: Sofia Martinez
 contract_id: CTR-2026-0148
 ---
