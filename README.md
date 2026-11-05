@@ -7,6 +7,9 @@ due-diligence reviews maintained by Compliance Operations.
 
 - `vendors/<slug>.md` — one record per vendor. Each record starts with a YAML
   front matter block.
+- `playbooks/<slug>/` — the vendor's remediation playbook, when one exists.
+  The playbook README states whether the playbook is published or still a
+  draft.
 
 ## Front matter fields
 
@@ -23,5 +26,6 @@ due-diligence reviews maintained by Compliance Operations.
 
 ## Change policy
 
-Only Compliance Operations updates records in this repository. Remediation
-playbooks live in their own repositories and are never modified from here.
+Only Compliance Operations updates vendor records in this repository. Playbook
+documents are owned by the vendor's security team and must never be edited
+from the registry workflow.
