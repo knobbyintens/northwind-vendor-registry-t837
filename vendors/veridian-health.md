@@ -3,10 +3,9 @@ vendor: Veridian Health
 slug: veridian-health
 service_category: clinical data exchange
 risk_tier: high
-review_status: cleared
+review_status: pending_review
 renewal_owner: Priya Nair
 contract_id: CTR-2026-0127
-cleared_on: '2026-10-29'
 ---
 
 # Veridian Health
