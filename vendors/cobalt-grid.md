@@ -3,10 +3,9 @@ vendor: Cobalt Grid
 slug: cobalt-grid
 service_category: infrastructure monitoring
 risk_tier: medium
-review_status: cleared
+review_status: pending_review
 renewal_owner: Daniel Okafor
 contract_id: CTR-2026-0119
-cleared_on: '2026-10-31'
 ---
 
 # Cobalt Grid
