@@ -3,7 +3,7 @@ vendor: Aster Bio
 slug: aster-bio
 service_category: laboratory information systems
 risk_tier: high
-review_status: conditional
+review_status: pending_review
 renewal_owner: Daniel Okafor
 contract_id: CTR-2026-0141
 ---
